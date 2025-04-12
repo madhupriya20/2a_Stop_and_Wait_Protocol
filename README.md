@@ -42,14 +42,13 @@ while True:
 ```
 
 ## OUTPUT
-<img width="479" alt="2025-04-12 (2)" src="https://github.com/user-attachments/assets/ea42c564-c976-4cb3-9bb7-0542fb533a8b" />
+
+<img width="479" alt="2025-04-12 (2)" src="https://github.com/user-attachments/assets/96d762bd-13d5-43eb-9bc9-923defd76cdc" />
 
 
 
 
-
-<img width="475" alt="2025-04-12 (3)" src="https://github.com/user-attachments/assets/157a4a00-0880-4357-b20a-d31e84e95b56" />
-
+<img width="475" alt="2025-04-12 (3)" src="https://github.com/user-attachments/assets/daee132b-b6d2-4517-aa08-5bbc1ce0df50" />
 
 
 
